@@ -2,6 +2,6 @@
 
 NoBot is a helpful Supporter Bot
 
-💡 Idea : @NoShadow, NoControl
-📁 Code : @NoShadow
-⚙️ Host : / 
+<p>💡 Idea : @NoShadow, NoControl</p>
+<p>📁 Code : @NoShadow</p>
+<p>⚙️ Host : / </p>
